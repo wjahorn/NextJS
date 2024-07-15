@@ -8,7 +8,9 @@ NodeJS and TailwindCSS need to be installed for this app.
 
 ## Getting Started
 
-First, run the development server:
+Naviagate to the "pokefetch" folder that is downloaded from this repository.
+Then run "npm install" to install the necessary dependencies for the project.
+Then run the development server:
 
 ```bash
 npm run dev
@@ -19,10 +21,12 @@ pnpm dev
 # or
 bun dev
 ```
+*Mine worked with npm run dev*
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Note the buttons to change pages only work if you click on the text (I couldn't work out how to get the whole button to be the link).
+*Note the buttons to change pages only work if you click on the text (I couldn't work out how to get the whole button to be the link).*
 
 
 ## Assumptions and Decisions
