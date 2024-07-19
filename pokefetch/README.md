@@ -25,6 +25,7 @@ bun dev
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Latets update allows for image and info for specific pokemon to be displayed when clicking on their name.
 
 *Note the buttons to change pages only work if you click on the text (I couldn't work out how to get the whole button to be the link).*
 
