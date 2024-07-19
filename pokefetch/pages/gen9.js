@@ -26,10 +26,10 @@ const HomePage = ({ pokemon }) => {
       </h1>
       <div className="bg-red-600 text-blue-500 text-center space-x-60 p-8 text-xl font-semibold">
         <button className="bg-yellow-300 p-4 rounded-full hover:text-blue-700">
-            <Link href="/">Back to Homepage</Link>
+            <Link href="/gen8">Generation 8</Link>
         </button>
         <button className="bg-yellow-300 p-4 rounded-full hover:text-blue-700">
-            <Link href="/gen8">Generation 8</Link>
+            <Link href="/">Back to Homepage</Link>
         </button>
       </div>
       <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-4 capitalize">
